@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="first_human">Vas primero.</string>
+    <string name="turn_human">Tu Turno.</string>
+    <string name="turn_computer">Turno de Android.</string>
+    <string name="result_tie">Es un empate.</string>
+    <string name="result_human_wins">Tu ganas!</string>
+    <string name="result_computer_wins">Android gana!</string>
+    <string name="new_game">Nuevo Juego</string>
+    <string name="reset_index">Reiniciar contadores</string>
+</resources>
