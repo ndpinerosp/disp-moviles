@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+    <!---android:background="#618E2C"-->
+
+
+    <co.edu.unal.tictactoe.BoardView
+        android:id="@+id/board"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/information"
+        android:layout_width="364dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:text="Vas primero"
+        android:textSize="20sp" />
+
+
+    <RelativeLayout
+        android:layout_width="364dp"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/player"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:text="Player: 0"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tie"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Empate: 0"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/comp"
+            android:layout_width="394dp"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="Android: 0"
+            android:textSize="20sp" />
+    </RelativeLayout>
+</LinearLayout>
