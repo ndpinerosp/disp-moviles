@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="first_human">Vas primero.</string>
+    <string name="turn_human">Tu Turno.</string>
+    <string name="turn_computer">Turno de Android.</string>
+    <string name="result_tie">Es un empate.</string>
+    <string name="result_human_wins">Tu ganas!</string>
+    <string name="result_computer_wins">Android gana!</string>
+    <string name="new_game">Nuevo Juego</string>
+    <string name="difficulty_easy">Facil</string>
+    <string name="difficulty_harder">Medio</string>
+    <string name="difficulty_expert">Experto</string>
+    <string name="difficulty_choose">Seleccione Dificultad</string>
+    <string name="quit_question">Desea Salir</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="nn">Desarrollado por: Nicolas Piñeros</string>
+    <string name="description">Aplicación desarrollada para Dispositivos móviles UN.</string>
+    <string name="about">Acerca de </string>
+    <string name="title_activity_navigation_menu">navigation_menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="board_color">Color del Tablero</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>

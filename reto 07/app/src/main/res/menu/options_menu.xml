@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/new_game"
+        android:title="Nuevo Juego"
+         />
+    <item android:id="@+id/setting"
+        android:title="Configuracion"
+          />
+    <item android:id="@+id/quit"
+        android:title="Salir"
+         />
+    <item android:id="@+id/about"
+        android:title="@string/about"
+        />
+</menu>
