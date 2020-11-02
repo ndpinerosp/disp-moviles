@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animals">
+        <item>Todos</item>
+        <item>Fabrica de Software</item>
+        <item>Consultoria</item>
+        <item>Desarrollo a la medida</item>
+    </string-array>
+</resources>
