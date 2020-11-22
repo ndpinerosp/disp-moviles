@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"> WebService </string>
+
+    <string name="date">Fecha de evento</string>
+</resources>
